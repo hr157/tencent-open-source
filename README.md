@@ -1,6 +1,6 @@
 # Tencent Open Source Works
 腾讯开源作品整理. (非官方，内容待完善，仅收录Github上的项目).
-* ##[Tencent所有的开源软件整理](https://www.oschina.net/project/tencent)
+## * [Tencent所有的开源软件整理](https://www.oschina.net/project/tencent)
 
 使用 [get_repos.py](./tool/) 生成.
 
